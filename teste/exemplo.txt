@@ -1,0 +1,18 @@
+Objetivo:
+
+Criar uma API RESTFULL para aluno e disciplina
+
+
+
+MODELO: 
+   Aluno: id, nome, idade , email
+   Disciplina: id, nome da disciplina, nome do professor, duracao em minutos , observacao
+
+Repositorio de produto: OK
+    obterTodos, obterPorId, adicionar, atualizar, deletar.
+
+Serviço de produto: OK
+    obterTodos, obterPorId, adicionar, atualizar, deletar.
+
+Controller de produto:
+    obterTodos, obterPorId, adicionar, atualizar, deletar.
