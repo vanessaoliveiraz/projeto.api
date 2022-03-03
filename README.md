@@ -1,2 +1,2 @@
-# projeto.api
-prática da api deafio
+# projeto
+prática da api desafio
